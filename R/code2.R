@@ -1,4 +1,4 @@
-#' At the time of use this you have to add a Point shapefile.
+#' Add a Point shapefile and raster image.
 #' @author  Subhadip Datta
 #' @param ras_img Raster image
 #' @param point_shp Point shapefile with class info

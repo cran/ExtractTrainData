@@ -2,7 +2,7 @@
 % Please edit documentation in R/code2.R
 \name{ExValue_from_Pointshp}
 \alias{ExValue_from_Pointshp}
-\title{At the time of use this you have to add a Point shapefile.}
+\title{Add a Point shapefile and raster image.}
 \usage{
 ExValue_from_Pointshp(ras_img, point_shp, res_Col_name)
 }
@@ -14,7 +14,7 @@ ExValue_from_Pointshp(ras_img, point_shp, res_Col_name)
 \item{res_Col_name}{Name of the colomn contain class id's}
 }
 \description{
-At the time of use this you have to add a Point shapefile.
+Add a Point shapefile and raster image.
 }
 \examples{
 library(raster)

@@ -1,7 +1,7 @@
-abbdcf94bd33b17dda1dc3714135b791 *DESCRIPTION
+b9e68fe4fbae7fc9539f9ed718ab5459 *DESCRIPTION
 ec8d4dcda4f4d890721a2a42c029b6d0 *NAMESPACE
-03f61b0866d15651862abc95be3cead5 *R/code.R
-752fccc61258af32f39d9bc8dba93de3 *R/code2.R
+e9f1481f8ef6d57ca68a72637a5512c1 *R/code.R
+ecdd7c6e8d82052e4d36e63efaaceca2 *R/code2.R
 ae3b3df9970b49b6523e608759bc957d *inst/extdata/poin.cpg
 cc378ea7ccbb3197e26458b96bb9f3c1 *inst/extdata/poin.dbf
 c36f16a69ce69e5ec247db7cd101a0b6 *inst/extdata/poin.prj
@@ -21,5 +21,5 @@ cbef7825f8e4780862e343976a38c3d8 *inst/extdata/ras.tif
 10aa805532c01fe6cf9292387cfb4b70 *inst/extdata/ras.tif.aux.xml
 ba8dff957339694665325db5ff43ad5f *inst/extdata/ras.tif.ovr
 c859e63204ff2526a47026a6febc2335 *inst/extdata/ras.tif.xml
-e5ed929e5202965d12b6484e8af66386 *man/ExValue_from_Pointshp.Rd
-84b4ab5586f5e400b8e2f057bc675287 *man/ExValue_from_Polyshp.Rd
+8a0775ca0281905639372adf20cc9a23 *man/ExValue_from_Pointshp.Rd
+29412cd75a93a6adc184be68fa69a3e4 *man/ExValue_from_Polyshp.Rd

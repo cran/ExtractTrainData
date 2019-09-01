@@ -1,4 +1,4 @@
-#' At the time of use this you have to add a Polygon shapefile.
+#' Add a Polygon shapefile and raster image.
 #' @author  Subhadip Datta
 #' @param ras_img Raster image
 #' @param poly_shp Polygon shapefile with class info

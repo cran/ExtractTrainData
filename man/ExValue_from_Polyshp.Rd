@@ -2,7 +2,7 @@
 % Please edit documentation in R/code.R
 \name{ExValue_from_Polyshp}
 \alias{ExValue_from_Polyshp}
-\title{At the time of use this you have to add a Polygon shapefile.}
+\title{Add a Polygon shapefile and raster image.}
 \usage{
 ExValue_from_Polyshp(ras_img, poly_shp, res_Col_name)
 }
@@ -14,7 +14,7 @@ ExValue_from_Polyshp(ras_img, poly_shp, res_Col_name)
 \item{res_Col_name}{Name of the colomn contain class id's}
 }
 \description{
-At the time of use this you have to add a Polygon shapefile.
+Add a Polygon shapefile and raster image.
 }
 \examples{
 library(raster)
