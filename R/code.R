@@ -3,6 +3,7 @@
 #' @param ras_img Raster image
 #' @param poly_shp Polygon shapefile with class info
 #' @param res_Col_name Name of the colomn contain class id's
+#' @import sp
 #' @import raster
 #' @import rgeos
 #' @import rgdal
