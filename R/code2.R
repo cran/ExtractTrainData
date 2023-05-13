@@ -5,8 +5,6 @@
 #' @param In.colName Name of the column contain point id's
 #' @param Out.colName Name of the output column contain point id's
 #' @import raster
-#' @import rgeos
-#' @import rgdal
 #' @examples
 #' library(raster)
 #' library(ExtractTrainData)

@@ -4,10 +4,7 @@
 #' @param poly.shp Polygon shapefile with class info
 #' @param In.colName Name of the column contain polygon id's
 #' @param Out.colName Name of the output column contain polygon id's
-#' @import sp
 #' @import raster
-#' @import rgeos
-#' @import rgdal
 #' @examples
 #' library(raster)
 #' library(ExtractTrainData)

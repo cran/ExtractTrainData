@@ -1,8 +1,8 @@
-1e582f51ac726de63ba4770b6cff81bc *DESCRIPTION
-6b75b5286a82b7e7129182bdd819a7c9 *NAMESPACE
-88e81e3979e009908c46bffcdf00708e *R/code.R
-12637733045b64afca1f17926c86fe8d *R/code2.R
-1669ca48afede1f75622a183720dd69c *R/code3.R
+434f5f350ad2b49daed30ff22e4c61c2 *DESCRIPTION
+b1637d54cbb7ea4588e9ec34558580e2 *NAMESPACE
+5f4179bb1f7f415fa5f24ffb88f70745 *R/code.R
+03566fd4b2bd0ca929e519d5acf2d4ee *R/code2.R
+0f40680ae2e3dc7fa45dd73b655eb060 *R/code3.R
 ae3b3df9970b49b6523e608759bc957d *inst/extdata/lines.cpg
 dc08576590cdba8511bedaa01a95e488 *inst/extdata/lines.dbf
 c36f16a69ce69e5ec247db7cd101a0b6 *inst/extdata/lines.prj
